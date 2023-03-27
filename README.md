@@ -9,3 +9,4 @@
 7.Create Node server
 8.Fetch products from backend
 9.Manage state by reducer hook
+10.Add bootstrap UI Framework
