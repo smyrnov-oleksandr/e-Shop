@@ -7,3 +7,5 @@
 5.Create list products
 6.Add routing
 7.Create Node server
+8.Fetch products from backend
+9.Manage state by reducer hook
