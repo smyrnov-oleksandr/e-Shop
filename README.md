@@ -10,3 +10,4 @@
 8.Fetch products from backend
 9.Manage state by reducer hook
 10.Add bootstrap UI Framework
+11.Create Product and Rating Component

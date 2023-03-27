@@ -13,6 +13,10 @@ body {
 main {
   flex: 1;
 }
+.btn-primary {
+  background-color: #f0c040 !important;
+  color: #000 !important;
+}
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -28,4 +32,7 @@ main {
 }
 .product-info {
   padding: 1rem;
+}
+.rating span {
+  color: #ffc000;
 }
