@@ -14,3 +14,4 @@
 12.Create product details screen
 13.Create Loading and Message Component
 14.Implement Add to Cart
+15.Complete Add to Cart
