@@ -18,3 +18,4 @@
 16.Create Cart Screen
 17.Complete Cart Screen
 18.Create Sign In Screen
+19.Connect to MongoDB database
